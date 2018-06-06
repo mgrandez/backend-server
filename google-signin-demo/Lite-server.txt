@@ -1,0 +1,4 @@
+https://github.com/johnpapa/lite-server
+
+run:
+$ npm run dev
